@@ -4,7 +4,7 @@ This repository includes formal documentation to support transparency, reproduci
 
 - 📄 **Datasheet**:  
   Describes the BBO capstone data set (query history and function evaluations), including motivation, composition, collection process and limitations.  
-  ➜ [View Datasheet](main/datasheet.md)
+  ➜ [View Datasheet]((https://github.com/Mahbas/AI_Course_Capstone/blob/main/ModelCard_BBO_Optimisation))
 
 - 📘 **Model Card**:  
   Documents the Bayesian optimisation approach used in this project, including intended use, strategy evolution, performance and ethical considerations.  
