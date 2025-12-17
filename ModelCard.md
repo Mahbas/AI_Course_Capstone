@@ -1,10 +1,8 @@
-Model Card for the BBO Optimisation Approach
-Overview
 Model name: Adaptive Bayesian Optimisation Strategy
 
 Type: Sequential black-box optimisation
 
-Version: Capstone implementation (Round 10)
+Version: Capstone implementation
 
 This approach combines Gaussian Process surrogates with adaptive acquisition strategies and human-in-the-loop decision-making.
 Intended use
