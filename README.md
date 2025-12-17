@@ -10,9 +10,9 @@ Rather than aiming for perfect global optima, the focus of this project is on pr
 
 To support reproducibility and responsible ML practice, this repository includes:
 
-  - A datasheet documenting the query history and function evaluations generated during the project
+  - A datasheet documenting the query history and function evaluations generated during the project [Datasheet](Datasheet.md)
 
-  - A model card describing the optimisation strategy, assumptions, performance and limitations
+  - A model card describing the optimisation strategy, assumptions, performance and limitations [Model Card](ModelCard.md)
 
   - Supporting notebooks and analysis used to guide decision-making across rounds
 
