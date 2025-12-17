@@ -17,3 +17,25 @@ To support reproducibility and responsible ML practice, this repository includes
   - Supporting notebooks and analysis used to guide decision-making across rounds
 
 The project emphasises that in black-box optimisation, success is defined not only by the final numerical outcome, but by the clarity, rigour and adaptability of the optimisation process itself.
+
+Key Tools and Libraries
+
+The following tools and libraries were used throughout the capstone project:
+
+  - Python – core programming language for experimentation and analysis
+
+  - NumPy – numerical computation, random sampling and array operations
+
+  - Pandas – data storage and manipulation of query histories and function evaluations
+
+  - Matplotlib / Seaborn – visualisation of function behaviour, trends and exploration patterns
+
+  - Scikit-learn – surrogate modelling and baseline models where applicable
+
+  - Gaussian Process concepts – used conceptually to guide exploration–exploitation strategies
+
+  - Acquisition functions – Upper Confidence Bound (UCB) and Expected Improvement (EI)
+
+  - Manual feature transformations – e.g. log-scaling for large dynamic ranges
+
+  - Git & GitHub – version control, documentation and reproducibility
